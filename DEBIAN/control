@@ -1,0 +1,11 @@
+Package: storiq-objet-conf
+Version: 1.5-2
+Section: Intellique
+Priority: optional
+Architecture: all
+Depends: storiq-objet-logger (>=0.1), perl-modules (>=5.8)
+Conflicts: objet-conf
+Replaces: objet-conf
+Maintainer: Developers Team <dev@intellique.com>
+Description: storiq-objet-conf
+ Objet de gestion de fichier de configuration.
